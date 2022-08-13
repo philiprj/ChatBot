@@ -1,2 +1,6 @@
 # ChatBot
-Chat bot using PyTorch  
+Chat bot using PyTorch 
+
+## Libraries
+* Python
+* PyTorch  
