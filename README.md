@@ -9,18 +9,18 @@ conda env -n <env_name> python=3.9
 conda activate <my_name>
 ```
 
-```python
+```console
 pip install -r requirements.txt
 ```
 
 ## Training
 To train, simply run
-```python
+```console
 python3 src/train.py
 ```
 ## Chat
 To chat with the trained chat bot, run
-```python
+```console
 python3 src/chat.py
 ```
 
